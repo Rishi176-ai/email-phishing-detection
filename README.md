@@ -1,4 +1,4 @@
-# AI-Based Phishing Email Detection System
+# Email Phishing Detection System
 
 ## 📌 Project Overview
 The AI-Based Phishing Email Detection System is a Machine Learning project designed to identify and classify phishing emails. 
