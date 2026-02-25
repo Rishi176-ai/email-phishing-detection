@@ -1,1 +1,1 @@
-My Project
+Presentation slides and demo materials
